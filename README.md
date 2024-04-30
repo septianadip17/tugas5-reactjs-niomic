@@ -1,3 +1,11 @@
+# TUGAS 5 REACT JS
+
+# Tujuan :
+- Memahami cara penggunaan Lists dan Keys.
+- Memahami cara penggunaan Form.
+- Memahami cara penggunaan preventDefault.
+- Memahami cara penggunaan Refs.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
